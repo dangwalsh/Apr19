@@ -26,9 +26,9 @@
 		375D85D2153B7B22004770EA /* up.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 375D85D1153B7B22004770EA /* up.mp3 */; };
 		375D85D4153B83FA004770EA /* swipe.png in Resources */ = {isa = PBXBuildFile; fileRef = 375D85D3153B83FA004770EA /* swipe.png */; };
 		375D85D6153B8414004770EA /* swipe.png in Resources */ = {isa = PBXBuildFile; fileRef = 375D85D5153B8414004770EA /* swipe.png */; };
-		375D85D8153B8B08004770EA /* nothing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 375D85D7153B8B08004770EA /* nothing.mp3 */; };
 		375D85DA153B8CCD004770EA /* swipeLaunch.png in Resources */ = {isa = PBXBuildFile; fileRef = 375D85D9153B8CCC004770EA /* swipeLaunch.png */; };
 		375D85DC153B8CDA004770EA /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 375D85DB153B8CDA004770EA /* Default.png */; };
+		375F0BCF153D0F3A0040CB55 /* nothing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 375F0BCE153D0F3A0040CB55 /* nothing.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,9 +61,9 @@
 		375D85D1153B7B22004770EA /* up.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = up.mp3; sourceTree = "<group>"; };
 		375D85D3153B83FA004770EA /* swipe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swipe.png; sourceTree = "<group>"; };
 		375D85D5153B8414004770EA /* swipe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swipe.png; sourceTree = "<group>"; };
-		375D85D7153B8B08004770EA /* nothing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = nothing.mp3; path = "../../../../../../../../Volumes/public-1/01_Music/nothing.mp3"; sourceTree = "<group>"; };
 		375D85D9153B8CCC004770EA /* swipeLaunch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = swipeLaunch.png; path = ../../../../../../Desktop/swipeLaunch.png; sourceTree = "<group>"; };
 		375D85DB153B8CDA004770EA /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		375F0BCE153D0F3A0040CB55 /* nothing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = nothing.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,8 +114,8 @@
 		370DD4E8153B2934002B6562 /* Apr19 */ = {
 			isa = PBXGroup;
 			children = (
+				375F0BCE153D0F3A0040CB55 /* nothing.mp3 */,
 				375D85D9153B8CCC004770EA /* swipeLaunch.png */,
-				375D85D7153B8B08004770EA /* nothing.mp3 */,
 				375D85D3153B83FA004770EA /* swipe.png */,
 				375D85D1153B7B22004770EA /* up.mp3 */,
 				375D85CF153B7B17004770EA /* over.mp3 */,
@@ -210,9 +210,9 @@
 				375D85D2153B7B22004770EA /* up.mp3 in Resources */,
 				375D85D4153B83FA004770EA /* swipe.png in Resources */,
 				375D85D6153B8414004770EA /* swipe.png in Resources */,
-				375D85D8153B8B08004770EA /* nothing.mp3 in Resources */,
 				375D85DA153B8CCD004770EA /* swipeLaunch.png in Resources */,
 				375D85DC153B8CDA004770EA /* Default.png in Resources */,
+				375F0BCF153D0F3A0040CB55 /* nothing.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
