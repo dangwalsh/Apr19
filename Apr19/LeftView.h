@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-
+// fake notes
 @interface LeftView : UIView{
     UILabel *label;
     CGFloat width;
